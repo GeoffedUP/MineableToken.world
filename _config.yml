@@ -9,7 +9,7 @@ name:
 description: ERC-918 Mineable Token Standard Information Portal
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: \mineabletoken\images\logo2.png
+avatar: /images/logo2.png
 
 #
 # Flags below are optional

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Links & Videos
+permalink: /links/
 ---
 
 *If you have any trouble, the friendly and helpful 0xBitcoin community will be happy to help you out. Discord has kind of become 0xBTC's community hub, you can get answers the fastest from devs and helpful community members. Or message one of the community members on reddit listed below.*

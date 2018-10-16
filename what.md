@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is EIP:918?
-permalink: /what-is-it/
+permalink: /what/
 ---
 
 

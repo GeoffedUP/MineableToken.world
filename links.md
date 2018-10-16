@@ -39,6 +39,10 @@ permalink: /links/
 
 - [**MineableToken.world**](https://mineabletoken.world){:target="_blank"}
 - *ERC-918 Mineable Token information portal*
+ &nbsp;
+<div align="right">
+   <b><a href="#top">↥ back to top</a></b>
+</div>
 
 # Videos
 
@@ -59,3 +63,8 @@ permalink: /links/
 <br>
 #### Kev's Crypto Channel Interview w/ 0xBitcoin
 [![Kev's Crypto Channel Interview w/ 0xBitcoin](https://img.youtube.com/vi/SBAmCigHcJ4/0.jpg)](https://www.youtube.com/watch?v=SBAmCigHcJ4){:target="_blank"}
+
+&nbsp;
+<div align="right">
+   <b><a href="#top">↥ back to top</a></b>
+</div>

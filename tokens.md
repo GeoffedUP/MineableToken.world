@@ -32,7 +32,8 @@ The goal of [0xBitcoin](https://0xbitcoin.org){:target="_blank"} is to be looked
 * *or Traded OTC on the 0xBitcoin Discord or wherever traders see fit.*
 
  *~more listings are in the works. Feel free to suggest 0xBTC to your favorite exchanges!*
+ 
  &nbsp;
  <div align="right">
-    <b><a href="#general-information">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
  </div>

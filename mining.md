@@ -8,7 +8,7 @@ permalink: /mining/
 
 0xBitcoin is a Smart Contract on the Ethereum network, and the concept of Token Mining is patterned after Bitcoin's distribution. Rather than solving 'blocks', work is issued by the contract, which also maintains a Difficulty which goes up or down depending on how often a Reward is issued. Miners can put their hardware to work to claim these rewards, in concert with specialized software, working either by themselves or together as a Pool. The total lifetime supply of 0xBitcoin is `21,000,000` tokens and rewards will repeatedly halve over time.
 
-The 0xBitcoin contract was deployed by Infernal_Toast at Ethereum address: [0xb6ed7644c69416d67b522e20bc294a9a9b405b31](https://etherscan.io/address/0x8fea1cf4845417f0525f5effca0f312a8c419a4e){:target="_blank"}
+The 0xBitcoin contract was deployed by Infernal_Toast at Ethereum address: [0xb6ed7644c69416d67b522e20bc294a9a9b405b31](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31){:target="_blank"}
 
 *  **MINING IN MORE DETAIL (Gee-Whiz Info)**
 
@@ -27,7 +27,7 @@ If the average Reward Time is longer than that, the difficulty will decrease. If
 
 &nbsp;
 <div align="right">
-    <b><a href="#mining-in-a-nutshell">↥ back to top</a></b>
+   <b><a href="#top">↥ back to top</a></b>
 </div>
 
 &#x200B;
@@ -49,10 +49,10 @@ If the average Reward Time is longer than that, the difficulty will decrease. If
 
     *~Pascal cards (like GTX 10x0) are generally more temperature-sensitive when overclocked. Reducing Core temperature can often stabilize higher overclocks better than adding voltage can. Maxwell-Gen2 cards (like GTX 9xx) can usually be overclocked further at higher temperatures.*
 
-&nbsp;
-<div align="right">
-    <b><a href="#mining-in-a-nutshell">↥ back to top</a></b>
-</div>
+    &nbsp;
+    <div align="right">
+       <b><a href="#top">↥ back to top</a></b>
+    </div>
 
 &#x200B;
 ### **MINING SOFTWARE AND DESCRIPTIONS**
@@ -79,7 +79,8 @@ If the average Reward Time is longer than that, the difficulty will decrease. If
 * v2.10.4 is an enhancement of the original 0xBitcoin-Miner with CUDA support added by Mikers and enhanced by Azlehria. "Nabiki" is a C++-only version, with no NodeJS code, which supports Pool Mining (just not Solo) and works on Windows 64-bit and Linux. Source code is available with pre-packaged binaries and a GUI in the works. Has a 2.5% "devfee". Under active development!
 
 ~*Older Miners: Older and possibly-unsupported miner versions can be found at the above link for historical purposes and specific applications- including the original NodeJS CPU miner by Infernal Toast/Zegordo, the '1000x' NodeJS/C++ hybrid version of 0xBitcoin-Miner and Mikers' enhanced CUDA builds.*
+
 &nbsp;
 <div align="right">
-    <b><a href="#mining-in-a-nutshell">↥ back to top</a></b>
+   <b><a href="#top">↥ back to top</a></b>
 </div>

@@ -4,6 +4,8 @@ title: Tokens
 permalink: /tokens/
 ---
 
+# *MORE TOKENS ADDED SOON*
+
 [![0xBitcoin.org](/images/0xbtc-email.png)](https://0xbitcoin.org){:target="_blank"}
 
 **[0xBitcoin.org](https://www.0xbitcoin.org){:target="_blank"}**

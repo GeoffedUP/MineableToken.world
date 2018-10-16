@@ -16,6 +16,7 @@ permalink: /links/
 
 - [**Official 0xBTC forums**](http://forum.0xbtc.io/c/general-discussion){:target="_blank"}
 
+- [**0xBTC Foundation medium blog**](https://medium.com/@0xBitcoinFoundation){:target="_blank"}
 
 - [**Infernal_Toast Mining 101**](https://medium.com/@admazzola/0xbitcoin-mining-101-9605b7108b9e){:target="_blank"}
 - [**Infernal_Toast's medium blog** *(contract deployer)*](https://medium.com/@admazzola){:target="_blank"}

@@ -16,7 +16,7 @@ avatar: logo2.png
 #
 
 # Includes an icon in the footer for each username you enter
-  footer-links:
+footer-links:
   dribbble:
   email: geoff@0xbitcoin.foundation
   facebook:

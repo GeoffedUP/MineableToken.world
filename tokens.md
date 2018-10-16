@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Tokens
+title: Tokens-more to be added soon
 permalink: /tokens/
 ---
 
-# *MORE TOKENS ADDED SOON*
 
 [![0xBitcoin.org](/images/0xbtc-email.png)](https://0xbitcoin.org){:target="_blank"}
 

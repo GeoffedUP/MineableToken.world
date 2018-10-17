@@ -3,13 +3,223 @@ layout: default
 title: Mineable Tokens
 ---
 
-## **Mineable Tokens**
+<style>
+.vividworknav {
+  width: 100%;
+  height: auto;
+  float: left;
+  padding: 0;
+  position: relative;
+  background-color: black;
+}
 
-![Token Mining](/images/token.png#floatLeft){:style="float: left;margin-right: 7px;margin-top: 7px;"}0xBitcoin is the first mineable ERC20 token on Ethereum. It uses mining for distribution, unlike all previous ERC20 tokens which were assigned to the contract deployer upon creation. 0xBTC is the first implementation of the [EIP:918 mineable token standard](https://eips.ethereum.org/EIPS/eip-918){:target="_blank"}, which opened up the possibility of a whole new class of mineable assets on Ethereum. Without any ICO, airdrop, pre-mine, or founder’s reward, 0xBitcoin is arguably the most decentralized asset in the Ethereum ecosystem, including even Ether (ETH), which had a large ICO.
+.vividworknav:hover img {
+  opacity: 0.3;
+}
 
-The goal of [0xBitcoin](https://0xbitcoin.org){:target="_blank"} is to be looked at as a currency and store of value asset on Ethereum. Its 21 million token hard cap and predictable issuance give it scarcity and transparency in terms of monetary policy, both things that Ether lacks. 0xBitcoin has certain advantages over PoW based currencies, such as compatibility with smart contracts and decentralized exchanges. In addition, 0xBTC cannot be 51% attacked (without attacking Ethereum), is immune from the “death spiral”, and will receive the benefits of scaling and other improvements to the Ethereum network.
+.vividworknav:hover .work-text-content {
+  opacity: 1;
+}
 
-I mention 0xBTC a lot in this intro because it was the first and has the largest hashrate in terms of mineable tokens. This site is a information portal for anything related to ERC-918 tokens that use the mineable token standard on Ethereum. This site will not list every single ERC:918-compliant token that has ever been made. I will use discretion and only list the active projects weather I think they are a useful & a good idea or not. What you want to see on this site is up to you, e-mail me if you have any suggestions or if you have a token you would like to have listed on the tokens page. much like 0xBitcoin and the code, the community owns this information I just help put it together in one spot.
+.vividworknav img {
+  padding: 0;
+  width: 100%;
+  display: block;
+  opacity: 1;
+}
+
+.vividworknav img,
+.work-text-content {
+  -webkit-transition: opacity 0.5s ease-out;
+  -moz-transition: opacity 0.5s ease-out;
+  -o-transition: opacity 0.5s ease-out;
+  transition: opacity 0.5s ease-out;
+}
+
+.work-text-content {
+  position: absolute;
+  color: white;
+  left: 0;
+  top: 25%;
+  right: 0;
+  bottom: 0;
+  font-size: 24px;
+  text-align: center;
+  opacity: 0;
+}
+</style>
+
+<div class="vividworknav">
+  <img src="images/0xbtc.png" />
+  <div class="work-text-content">
+    <p><a href="/0xbtc" a:link="#ffffff">0xBitcoin (0xBTC)</a></p>
+  </div>
+</div>
+
+<br>
+
+<style>
+.pepesnav {
+  width: 100%;
+  height: auto;
+  float: left;
+  padding: 0;
+  position: relative;
+  background-color: black;
+}
+
+.pepesnav:hover img {
+  opacity: 0.3;
+}
+
+.pepesnav:hover .pepesnavtxt {
+  opacity: 1;
+}
+
+.pepesnav img {
+  padding: 0;
+  width: 100%;
+  display: block;
+  opacity: 1;
+}
+
+.pepesnav img,
+.pepesnavtxt {
+  -webkit-transition: opacity 0.5s ease-out;
+  -moz-transition: opacity 0.5s ease-out;
+  -o-transition: opacity 0.5s ease-out;
+  transition: opacity 0.5s ease-out;
+}
+
+.pepesnavtxt {
+  position: absolute;
+  color: white;
+  left: 0;
+  top: 25%;
+  right: 0;
+  bottom: 0;
+  font-size: 24px;
+  text-align: center;
+  opacity: 0;
+}
+</style>
+
+<div class="pepesnav">
+  <img src="images/cryptopepes.png" />
+  <div class="pepesnavtxt">
+      <p><a href="https://cryptopepes.io/#0x8feA1cf4845417f0525f5EfFca0f312a8C419A4E" a:link="#ffffff" target="_blank">CrypoPepes.io</a></p>
+  </div>
+</div>
+
+<br>
+
+<style>
+.mineablesnav {
+  width: 100%;
+  height: auto;
+  float: left;
+  padding: 0;
+  position: relative;
+  background-color: black;
+}
+
+.mineablesnav:hover img {
+  opacity: 0.3;
+}
+
+.mineablesnav:hover .mineablesnavtxt {
+  opacity: 1;
+}
+
+.mineablesnav img {
+  padding: 0;
+  width: 100%;
+  display: block;
+  opacity: 1;
+}
+
+.mineablesnav img,
+.mineablesnavtxt {
+  -webkit-transition: opacity 0.5s ease-out;
+  -moz-transition: opacity 0.5s ease-out;
+  -o-transition: opacity 0.5s ease-out;
+  transition: opacity 0.5s ease-out;
+}
+
+.mineablesnavtxt {
+  position: absolute;
+  color: white;
+  left: 0;
+  top: 25%;
+  right: 0;
+  bottom: 0;
+  font-size: 24px;
+  text-align: center;
+  opacity: 0;
+}
+</style>
+
+<div class="mineablesnav">
+  <img src="images/mineables.png" />
+  <div class="mineablesnavtxt">
+      <p><a href="https://mineables.io/" a:link="#ffffff" target="_blank">Mineables.io</a></p>
+  </div>
+</div>
+
+<br>
+
+<style>
+.clmnav {
+  width: 100%;
+  height: auto;
+  float: left;
+  padding: 0;
+  position: relative;
+  background-color: black;
+}
+
+.clmnav:hover img {
+  opacity: 0.3;
+}
+
+.clmnav:hover .clmnavtxt {
+  opacity: 1;
+}
+
+.clmnav img {
+  padding: 0;
+  width: 100%;
+  display: block;
+  opacity: 1;
+}
+
+.clmnav img,
+.clmnavtxt {
+  -webkit-transition: opacity 0.5s ease-out;
+  -moz-transition: opacity 0.5s ease-out;
+  -o-transition: opacity 0.5s ease-out;
+  transition: opacity 0.5s ease-out;
+}
+
+.clmnavtxt {
+  position: absolute;
+  color: white;
+  left: 0;
+  top: 25%;
+  right: 0;
+  bottom: 0;
+  font-size: 24px;
+  text-align: center;
+  opacity: 0;
+}
+</style>
+
+<div class="clmnav">
+  <img src="images/caelum.png" />
+  <div class="clmnavtxt">
+    <p><a href="http://caelumproject.io/" a:link="#ffffff" target="_blank">Caelum Project</a></p>
+  </div>
+</div>
 
 &nbsp;
 <div align="right">

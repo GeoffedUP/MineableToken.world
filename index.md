@@ -220,6 +220,7 @@ title: Mineable Tokens
     <p><a href="http://caelumproject.io/" a:link="#ffffff" target="_blank">Caelum Project</a></p>
   </div>
 </div>
+-more mineables will be listed :)
 
 &nbsp;
 <div align="right">

@@ -1,3 +1,4 @@
+[http://mineabletoken.world](http://mineabletoken.world)
 # MineableToken.world
 ERC:918 Mineable Token information portal
 Thanks you to lodge and LtTofu for contributing technical info

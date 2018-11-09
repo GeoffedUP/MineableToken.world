@@ -9,7 +9,15 @@ permalink: /mediapack/
 <br>
 <br>
 
+
 <a href="images/0xBTC-Logo.png" target="_blank"><img src="images/0xBTC-Logo.png" width="200" height="200"></a>
+<a href="images/0xBTC-Logo-blue2.png" target="_blank"><img src="images/0xBTC-Logo-blue2.png" width="200" height="200"></a>
+<a href="images/0xBTC-Logo-black.png" target="_blank"><img src="images/0xBTC-Logo-black.png" width="200" height="200"></a>
+<a href="images/0xBTC-Logo-coal.png" target="_blank"><img src="images/0xBTC-Logo-coal.png" width="200" height="200"></a>
+<a href="images/0xBTC-Logo-white" target="_blank"><img src="images/0xBTC-Logo-white.png" width="200" height="200"></a>
+
+
+
 <a href="images/0xBTC-Logo2.png" target="_blank"><img src="images/0xBTC-Logo2.png" width="200" height="200"></a>
 <a href="images/0xBTC-Logo3.png" target="_blank"><img src="images/0xBTC-Logo3.png" width="200" height="200"></a>
 <a href="images/0xBTC-Logo4.png" target="_blank"><img src="images/0xBTC-Logo4.png" width="200" height="200"></a>

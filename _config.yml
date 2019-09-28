@@ -77,3 +77,5 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
+
+theme: jekyll-theme-cayman
